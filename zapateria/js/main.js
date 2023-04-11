@@ -9,3 +9,5 @@ let buscar = () =>{
         input_search.classList.add("oculto");
     }
 }
+
+
